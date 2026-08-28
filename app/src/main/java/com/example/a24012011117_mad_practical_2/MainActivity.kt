@@ -1,6 +1,5 @@
 package com.example.a24012011117_mad_practical_2
 
-import android.nfc.Tag
 import android.os.Bundle
 import android.util.Log
 import android.view.View
