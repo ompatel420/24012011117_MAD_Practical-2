@@ -15,6 +15,9 @@ Create an Android Application to demonstrate **Activity Life Cycle** functions (
 | :---: | :---: | :---: |
 | <img src="Screenshot/snackbar_2.png" width="250"> | <img src="Screenshot/snackbar_1.png" width="250"> | <img src="Screenshot/snackbar_3.png" width="250"> |
 
+| onPause |
+| :---: | 
+| <img src="Screenshot/toast.png" width="250"> |
 ---
 
 ## UI Implementation Details
