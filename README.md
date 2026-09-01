@@ -13,7 +13,7 @@ Create an Android Application to demonstrate **Activity Life Cycle** functions (
 ### 3. Snackbar Message Simulation
 | onStart | onResume | onrestart |
 | :---: | :---: | :---: |
-| <img src="Screenshot/snackbar1.png" width="250"> | <img src="Screenshot/snackbar_1.png" width="250"> | <img src="Screenshot/snackbar_3.png" width="250"> |
+| <img src="Screenshot/snackbar_2.png" width="250"> | <img src="Screenshot/snackbar_1.png" width="250"> | <img src="Screenshot/snackbar_3.png" width="250"> |
 
 ---
 
